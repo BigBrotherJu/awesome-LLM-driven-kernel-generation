@@ -371,6 +371,7 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 
 \[10/2025] From Large to Small: Transferring CUDA Optimization Expertise via Reasoning Graph
 [\[paper\]](https://arxiv.org/abs/2510.19873)
+[\[0426 ICLR\]](https://openreview.net/forum?id=vqESUhcSOG)
 
 \[01/2026] FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems
 [\[paper\]](https://arxiv.org/abs/2601.00227) |
