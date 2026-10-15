@@ -344,6 +344,14 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 [\[code\]](https://github.com/thunlp/TritonBench)
 ![GitHub stars](https://img.shields.io/github/stars/thunlp/TritonBench?style=social&cacheSeconds=86400)
 
+\[04/2025] ComputeEval
+[\[code\]](https://github.com/NVIDIA/compute-eval)
+![GitHub stars](https://img.shields.io/github/stars/NVIDIA/compute-eval?style=social&cacheSeconds=86400)
+
+\[06/2025] BackendBench
+[\[code\]](https://github.com/meta-pytorch/BackendBench)
+![GitHub stars](https://img.shields.io/github/stars/meta-pytorch/BackendBench?style=social&cacheSeconds=86400)
+
 \[07/2025] MultiKernelBench: A Multi-Platform Benchmark for Kernel Generation
 [\[paper\]](https://www.arxiv.org/abs/2507.17773) |
 [\[1026 ASE\]](https://dl.acm.org/doi/10.1145/3832783.3837460) |
@@ -360,10 +368,6 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 [\[paper\]](https://arxiv.org/abs/2509.14279) |
 [\[code\]](https://github.com/SakanaAI/robust-kbench)
 ![GitHub stars](https://img.shields.io/github/stars/SakanaAI/robust-kbench?style=social&cacheSeconds=86400)
-
-\[09/2025] BackendBench
-[\[code\]](https://github.com/meta-pytorch/BackendBench)
-![GitHub stars](https://img.shields.io/github/stars/meta-pytorch/BackendBench?style=social&cacheSeconds=86400)
 
 \[10/2025] TritonGym: A Benchmark for Agentic LLM Workflows in Triton GPU Code Generation
 [\[paper\]](https://openreview.net/forum?id=oaKd1fVgWc)
@@ -387,10 +391,6 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 [\[code\]](https://github.com/Lossfunk/ISO-Bench)
 ![GitHub stars](https://img.shields.io/github/stars/Lossfunk/ISO-Bench?style=social&cacheSeconds=86400) |
 [\[project\]](https://ayushnangia.github.io/iso-bench-website/)
-
-\[03/2026] ComputeEval
-[\[code\]](https://github.com/NVIDIA/compute-eval)
-![GitHub stars](https://img.shields.io/github/stars/NVIDIA/compute-eval?style=social&cacheSeconds=86400)
 
 \[03/2026] KernelArena
 [\[code\]](https://github.com/wafer-ai/kernel-arena)
