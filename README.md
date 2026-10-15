@@ -327,22 +327,26 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 
 \[01/2024] Can Large Language Models Write Parallel Code?
 [\[paper\]](https://arxiv.org/abs/2401.12554) |
+[\[0624 HPDC\]](https://dl.acm.org/doi/10.1145/3625549.3658689) |
 [\[code\]](https://github.com/parallelcodefoundry/ParEval)
 ![GitHub stars](https://img.shields.io/github/stars/parallelcodefoundry/ParEval?style=social&cacheSeconds=86400)
 
 \[02/2025] KernelBench: Can LLMs Write Efficient GPU Kernels?
 [\[blog\]](https://scalingintelligence.stanford.edu/blogs/kernelbench/) |
 [\[paper\]](https://arxiv.org/abs/2502.10517) |
+[\[0725 ICML\]](https://proceedings.mlr.press/v267/ouyang25a.html) |
 [\[code\]](https://github.com/ScalingIntelligence/KernelBench)
 ![GitHub stars](https://img.shields.io/github/stars/ScalingIntelligence/KernelBench?style=social&cacheSeconds=86400)
 
 \[02/2025] TRITONBENCH: Benchmarking Large Language Model Capabilities for Generating Triton Operators
 [\[paper\]](https://arxiv.org/abs/2502.14752) |
+[\[0725 ACL Findings\]](https://aclanthology.org/2025.findings-acl.1183/) |
 [\[code\]](https://github.com/thunlp/TritonBench)
 ![GitHub stars](https://img.shields.io/github/stars/thunlp/TritonBench?style=social&cacheSeconds=86400)
 
 \[07/2025] MultiKernelBench: A Multi-Platform Benchmark for Kernel Generation
 [\[paper\]](https://www.arxiv.org/abs/2507.17773) |
+[\[1026 ASE\]](https://dl.acm.org/doi/10.1145/3832783.3837460) |
 [\[code\]](https://github.com/wzzll123/MultiKernelBench)
 ![GitHub stars](https://img.shields.io/github/stars/wzzll123/MultiKernelBench?style=social&cacheSeconds=86400)
 
@@ -363,12 +367,14 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 
 \[10/2025] TritonGym: A Benchmark for Agentic LLM Workflows in Triton GPU Code Generation
 [\[paper\]](https://openreview.net/forum?id=oaKd1fVgWc)
+[\[0726 ICML\]](https://proceedings.mlr.press/v306/guan26d.html)
 
 \[10/2025] From Large to Small: Transferring CUDA Optimization Expertise via Reasoning Graph
 [\[paper\]](https://arxiv.org/abs/2510.19873)
 
 \[01/2026] FlashInfer-Bench: Building the Virtuous Cycle for AI-driven LLM Systems
 [\[paper\]](https://arxiv.org/abs/2601.00227) |
+[\[0526 MLSys\]](https://proceedings.mlsys.org/paper_files/paper/2026/hash/37e44c4b5321605735be9761f9b758fc-Abstract-Conference.html) |
 [\[blog\]](https://flashinfer.ai/2025/10/21/flashinfer-bench.html) |
 [\[Competition\]](https://mlsys26.flashinfer.ai/) |
 [\[code\]](https://github.com/flashinfer-ai/flashinfer-bench)
@@ -376,6 +382,7 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 
 \[02/2026] ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads?
 [\[paper\]](https://arxiv.org/abs/2602.19594) |
+[\[0426 ICLR Workshop\]](https://iclr.cc/virtual/2026/10012621) |
 [\[code\]](https://github.com/Lossfunk/ISO-Bench)
 ![GitHub stars](https://img.shields.io/github/stars/Lossfunk/ISO-Bench?style=social&cacheSeconds=86400) |
 [\[project\]](https://ayushnangia.github.io/iso-bench-website/)
