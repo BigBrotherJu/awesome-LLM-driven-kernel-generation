@@ -325,6 +325,8 @@ High-quality data in this domain is defined not merely by volume, but by its abi
 # Benchmarks
 This section surveys the landscape of kernel generation benchmarking, providing a structured analysis of key evaluation frameworks.
 
+## Papers and Blogs
+
 \[01/2024] Can Large Language Models Write Parallel Code?
 [\[paper\]](https://arxiv.org/abs/2401.12554) |
 [\[0624 HPDC\]](https://dl.acm.org/doi/10.1145/3625549.3658689) |
@@ -344,14 +346,6 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 [\[code\]](https://github.com/thunlp/TritonBench)
 ![GitHub stars](https://img.shields.io/github/stars/thunlp/TritonBench?style=social&cacheSeconds=86400)
 
-\[04/2025] ComputeEval
-[\[code\]](https://github.com/NVIDIA/compute-eval)
-![GitHub stars](https://img.shields.io/github/stars/NVIDIA/compute-eval?style=social&cacheSeconds=86400)
-
-\[06/2025] BackendBench
-[\[code\]](https://github.com/meta-pytorch/BackendBench)
-![GitHub stars](https://img.shields.io/github/stars/meta-pytorch/BackendBench?style=social&cacheSeconds=86400)
-
 \[07/2025] MultiKernelBench: A Multi-Platform Benchmark for Kernel Generation
 [\[paper\]](https://www.arxiv.org/abs/2507.17773) |
 [\[1026 ASE\]](https://dl.acm.org/doi/10.1145/3832783.3837460) |
@@ -360,7 +354,7 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 
 \[07/2025] Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks
 [\[blog\]](https://rocm.blogs.amd.com/software-tools-optimization/triton-kernel-ai/README.html) |
-[\[paper\] ](https://arxiv.org/abs/2507.23194) |
+[\[paper\]](https://arxiv.org/abs/2507.23194) |
 [\[code\]](https://github.com/AMD-AGI/GEAK-agent)
 ![GitHub stars](https://img.shields.io/github/stars/AMD-AGI/GEAK-agent?style=social&cacheSeconds=86400)
 
@@ -392,39 +386,51 @@ This section surveys the landscape of kernel generation benchmarking, providing 
 ![GitHub stars](https://img.shields.io/github/stars/Lossfunk/ISO-Bench?style=social&cacheSeconds=86400) |
 [\[project\]](https://ayushnangia.github.io/iso-bench-website/)
 
-\[03/2026] KernelArena
-[\[code\]](https://github.com/wafer-ai/kernel-arena)
-![GitHub stars](https://img.shields.io/github/stars/wafer-ai/kernel-arena?style=social&cacheSeconds=86400) |
-[\[project\]](https://www.kernelarena.ai/)
-
 \[03/2026] KernelCraft: Benchmarking for Agentic Close-to-Metal Kernel Generation on Emerging Hardware
-[\[paper\]](https://arxiv.org/abs/2603.08721)
+[\[paper\]](https://arxiv.org/abs/2603.08721) |
+[\[0726 ICML\]](https://proceedings.mlr.press/v306/nie26c.html)
 
 \[03/2026] SOL-ExecBench: Speed-of-Light Benchmarking for Real-World GPU Kernels Against Hardware Limits
 [\[paper\]](https://arxiv.org/abs/2603.19173) |
+[\[1226 NIPS\]](https://neurips.cc/virtual/2026/loc/atlanta/poster/139395) |
 [\[project\]](https://research.nvidia.com/benchmarks/sol-execbench)
 
 \[03/2026] CelloAI Benchmarks: Toward Repeatable Evaluation of AI Assistants?
 [\[paper\]](https://arxiv.org/abs/2603.01051)
+[\[0626 PASC\]](https://dl.acm.org/doi/10.1145/3815572.3815751)
 
 \[03/2026] Making LLMs Optimize Multi-Scenario CUDA Kernels Like Experts
 [\[paper\]](https://arxiv.org/abs/2603.07169)
 
-\[03/2026] KernelBench-v3
-[\[code\]](https://github.com/Infatoshi/KernelBench-v3)
-![GitHub stars](https://img.shields.io/github/stars/Infatoshi/KernelBench-v3?style=social&cacheSeconds=86400)
-
 \[03/2026] Standard Kernel Rubric: Evaluating Kernel Generation Systems
 [\[blog\]](https://standardkernel.com/blog/standard-kernel-rubric/)
-
-\[04/2026] CANN Bench
-[\[code\]](https://gitcode.com/cann/cann-bench)
 
 \[05/2026] KernelBenchX: A Comprehensive Benchmark for Evaluating LLM-Generated GPU Kernels
 [\[paper\]](https://arxiv.org/abs/2605.04956) |
 [\[code\]](https://github.com/BonnieW05/KernelBenchX)
 ![GitHub stars](https://img.shields.io/github/stars/BonnieW05/KernelBenchX?style=social&cacheSeconds=86400)
 
+## Code Repositories
+
+\[04/2025] ComputeEval
+[\[code\]](https://github.com/NVIDIA/compute-eval)
+![GitHub stars](https://img.shields.io/github/stars/NVIDIA/compute-eval?style=social&cacheSeconds=86400)
+
+\[06/2025] BackendBench
+[\[code\]](https://github.com/meta-pytorch/BackendBench)
+![GitHub stars](https://img.shields.io/github/stars/meta-pytorch/BackendBench?style=social&cacheSeconds=86400)
+
+<del>\[03/2026] KernelArena
+[\[code\]](https://github.com/wafer-ai/kernel-arena)
+![GitHub stars](https://img.shields.io/github/stars/wafer-ai/kernel-arena?style=social&cacheSeconds=86400) |
+[\[project\]](https://www.kernelarena.ai/)</del> (Deprecated)
+
+\[04/2026] kernelbench (not affiliated with Stanford KernelBench)
+[\[code\]](https://github.com/Infatoshi/KernelBench)
+![GitHub stars](https://img.shields.io/github/stars/Infatoshi/KernelBench?style=social&cacheSeconds=86400)
+
+\[04/2026] CANN Bench
+[\[code\]](https://gitcode.com/cann/cann-bench)
 
 
 ***
